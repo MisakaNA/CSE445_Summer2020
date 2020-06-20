@@ -1,0 +1,9 @@
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\Project1_WFA\bin\Debug\Project1_WFA.exe.config
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\Project1_WFA\bin\Debug\Project1_WFA.exe
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\Project1_WFA\bin\Debug\Project1_WFA.pdb
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\Project1_WFA\obj\Debug\Project1_WFA.csprojAssemblyReference.cache
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\Project1_WFA\obj\Debug\Project1_WFA.Properties.Resources.resources
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\Project1_WFA\obj\Debug\Project1_WFA.csproj.GenerateResource.cache
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\Project1_WFA\obj\Debug\Project1_WFA.exe
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\Project1_WFA\obj\Debug\Project1_WFA.pdb
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\Project1_WFA\obj\Debug\Project1_WFA.Converter.resources

@@ -1,0 +1,9 @@
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\WebBrowser\bin\Release\WebBrowser.exe.config
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\WebBrowser\bin\Release\WebBrowser.exe
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\WebBrowser\bin\Release\WebBrowser.pdb
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\WebBrowser\obj\Release\WebBrowser.csprojAssemblyReference.cache
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\WebBrowser\obj\Release\WebBrowser.Web_browser.resources
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\WebBrowser\obj\Release\WebBrowser.Properties.Resources.resources
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\WebBrowser\obj\Release\WebBrowser.csproj.GenerateResource.cache
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\WebBrowser\obj\Release\WebBrowser.exe
+D:\STUDY\CSE_445\Projects\Project_01\Program\Project1\WebBrowser\obj\Release\WebBrowser.pdb
