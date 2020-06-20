@@ -28,7 +28,8 @@ namespace Project1
             int[] holder = new int[numberArray.Length]; //create new array to hold numbers
             for(int i = 0; i < holder.Length; i++) 
             {
-                holder[i] = int.Parse(numberArray[i]); //convert each number from string type to integer
+                //convert each number from string type to integer
+                holder[i] = int.Parse(numberArray[i]); 
             }
 
             Array.Sort(holder); //sort the numbers
@@ -37,20 +38,12 @@ namespace Project1
             //reconstruct the string
             for (int i = 0; i < holder.Length; i++)
             {
-                
                 rstr += holder[i]; 
-                
-                //add the "," between numbers
-                if(i != holder.Length - 1)
-                {
-                    rstr += ",";
-                }
-            }
 
+                //add the "," between numbers
+                if(i != holder.Length - 1) { rstr += ","; }
+            }
             return rstr;
         }
-        
-        
     }
-    
 }
