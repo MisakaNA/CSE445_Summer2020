@@ -1,0 +1,1746 @@
+Main thread started with initial chicken price $25...
+
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6574
+Amount of Chickens Ordered: 2
+Current Unit Price: 25
+Order Received Time: 6/4/2020 11:40:50 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6238
+Amount of Chickens Ordered: 1
+Current Unit Price: 25
+Order Received Time: 6/4/2020 11:40:50 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6594
+Amount of Chickens Ordered: 4
+Current Unit Price: 25
+Order Received Time: 6/4/2020 11:40:50 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6463
+Amount of Chickens Ordered: 3
+Current Unit Price: 25
+Order Received Time: 6/4/2020 11:40:50 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5198
+Amount of Chickens Ordered: 4
+Current Unit Price: 25
+Order Received Time: 6/4/2020 11:40:50 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $20 each at time 6/4/2020 11:40:50 PM
+
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 2
+Card Number: 6574
+Chicken Unit Price: 25
+Total Cost: 57.24
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 1
+Card Number: 6238
+Chicken Unit Price: 25
+Total Cost: 30.24
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 4
+Card Number: 6594
+Chicken Unit Price: 25
+Total Cost: 111.24
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 3
+Card Number: 6463
+Chicken Unit Price: 25
+Total Cost: 84.24
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 4
+Card Number: 5198
+Chicken Unit Price: 25
+Total Cost: 111.24
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5622
+Amount of Chickens Ordered: 2
+Current Unit Price: 20
+Order Received Time: 6/4/2020 11:40:52 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6945
+Amount of Chickens Ordered: 4
+Current Unit Price: 20
+Order Received Time: 6/4/2020 11:40:52 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6945
+Amount of Chickens Ordered: 3
+Current Unit Price: 20
+Order Received Time: 6/4/2020 11:40:52 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 5964
+Amount of Chickens Ordered: 2
+Current Unit Price: 20
+Order Received Time: 6/4/2020 11:40:52 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5565
+Amount of Chickens Ordered: 3
+Current Unit Price: 20
+Order Received Time: 6/4/2020 11:40:52 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $18 each at time 6/4/2020 11:40:53 PM
+
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 2
+Card Number: 5622
+Chicken Unit Price: 20
+Total Cost: 46.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 4
+Card Number: 6945
+Chicken Unit Price: 20
+Total Cost: 89.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 3
+Card Number: 6945
+Chicken Unit Price: 20
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 2
+Card Number: 5964
+Chicken Unit Price: 20
+Total Cost: 46.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 3
+Card Number: 5565
+Chicken Unit Price: 20
+Total Cost: 68.04
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5016
+Amount of Chickens Ordered: 4
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:54 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 5045
+Amount of Chickens Ordered: 1
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:54 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6594
+Amount of Chickens Ordered: 2
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:54 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 5059
+Amount of Chickens Ordered: 1
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:55 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 6066
+Amount of Chickens Ordered: 3
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:55 PM
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 4
+Card Number: 5016
+Chicken Unit Price: 18
+Total Cost: 81
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 5045
+Chicken Unit Price: 18
+Total Cost: 22.68
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 2
+Card Number: 6594
+Chicken Unit Price: 18
+Total Cost: 42.12
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 1
+Card Number: 5059
+Chicken Unit Price: 18
+Total Cost: 22.68
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 3
+Card Number: 6066
+Chicken Unit Price: 18
+Total Cost: 61.56
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5779
+Amount of Chickens Ordered: 3
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:56 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6043
+Amount of Chickens Ordered: 4
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:56 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6347
+Amount of Chickens Ordered: 4
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:56 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 6034
+Amount of Chickens Ordered: 3
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:57 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6570
+Amount of Chickens Ordered: 1
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:57 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6899
+Amount of Chickens Ordered: 3
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:58 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 5784
+Amount of Chickens Ordered: 1
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:58 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6021
+Amount of Chickens Ordered: 4
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:40:58 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $15 each at time 6/4/2020 11:40:58 PM
+
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 3
+Card Number: 5779
+Chicken Unit Price: 18
+Total Cost: 61.56
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 4
+Card Number: 6043
+Chicken Unit Price: 18
+Total Cost: 81
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 4
+Card Number: 6347
+Chicken Unit Price: 18
+Total Cost: 81
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 3
+Card Number: 6034
+Chicken Unit Price: 18
+Total Cost: 61.56
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 3
+Card Number: 6899
+Chicken Unit Price: 18
+Total Cost: 61.56
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 1
+Card Number: 6570
+Chicken Unit Price: 18
+Total Cost: 22.68
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 5784
+Chicken Unit Price: 18
+Total Cost: 22.68
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 4
+Card Number: 6021
+Chicken Unit Price: 18
+Total Cost: 81
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 6379
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:00 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5704
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:00 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6261
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:00 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 5704
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:00 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5059
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:00 PM
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 1
+Card Number: 6379
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 2
+Card Number: 5704
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 4
+Card Number: 6261
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 2
+Card Number: 5704
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 3
+Card Number: 5059
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 6344
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:02 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6921
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:02 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6961
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:02 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6624
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:03 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6624
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:03 PM
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 1
+Card Number: 6344
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 2
+Card Number: 6921
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 3
+Card Number: 6961
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 2
+Card Number: 6624
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 2
+Card Number: 6624
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5588
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:04 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5722
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:04 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 5722
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:04 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6646
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:05 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6646
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:05 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $18 each at time 6/4/2020 11:41:06 PM
+
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 3
+Card Number: 5588
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 4
+Card Number: 5722
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 2
+Card Number: 5722
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 2
+Card Number: 6646
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 2
+Card Number: 6646
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5829
+Amount of Chickens Ordered: 2
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:41:06 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6468
+Amount of Chickens Ordered: 1
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:41:06 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6884
+Amount of Chickens Ordered: 4
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:41:06 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 5652
+Amount of Chickens Ordered: 4
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:41:08 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5667
+Amount of Chickens Ordered: 4
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:41:08 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5847
+Amount of Chickens Ordered: 1
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:41:08 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6077
+Amount of Chickens Ordered: 3
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:41:08 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6077
+Amount of Chickens Ordered: 3
+Current Unit Price: 18
+Order Received Time: 6/4/2020 11:41:08 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $14 each at time 6/4/2020 11:41:08 PM
+
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 2
+Card Number: 5829
+Chicken Unit Price: 18
+Total Cost: 42.12
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 6468
+Chicken Unit Price: 18
+Total Cost: 22.68
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 4
+Card Number: 6884
+Chicken Unit Price: 18
+Total Cost: 81
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 4
+Card Number: 5652
+Chicken Unit Price: 18
+Total Cost: 81
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 3
+Card Number: 6077
+Chicken Unit Price: 18
+Total Cost: 61.56
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 1
+Card Number: 5847
+Chicken Unit Price: 18
+Total Cost: 22.68
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 3
+Card Number: 6077
+Chicken Unit Price: 18
+Total Cost: 61.56
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 4
+Card Number: 5667
+Chicken Unit Price: 18
+Total Cost: 81
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 5020
+Amount of Chickens Ordered: 4
+Current Unit Price: 14
+Order Received Time: 6/4/2020 11:41:10 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6019
+Amount of Chickens Ordered: 3
+Current Unit Price: 14
+Order Received Time: 6/4/2020 11:41:10 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 6947
+Amount of Chickens Ordered: 2
+Current Unit Price: 14
+Order Received Time: 6/4/2020 11:41:10 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6264
+Amount of Chickens Ordered: 3
+Current Unit Price: 14
+Order Received Time: 6/4/2020 11:41:10 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6984
+Amount of Chickens Ordered: 1
+Current Unit Price: 14
+Order Received Time: 6/4/2020 11:41:10 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $13 each at time 6/4/2020 11:41:11 PM
+
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 4
+Card Number: 5020
+Chicken Unit Price: 14
+Total Cost: 63.72
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 3
+Card Number: 6019
+Chicken Unit Price: 14
+Total Cost: 48.6
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 2
+Card Number: 6947
+Chicken Unit Price: 14
+Total Cost: 33.48
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 3
+Card Number: 6264
+Chicken Unit Price: 14
+Total Cost: 48.6
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 1
+Card Number: 6984
+Chicken Unit Price: 14
+Total Cost: 18.36
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6869
+Amount of Chickens Ordered: 2
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:12 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6589
+Amount of Chickens Ordered: 3
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:12 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5473
+Amount of Chickens Ordered: 3
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:12 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6715
+Amount of Chickens Ordered: 1
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:13 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5277
+Amount of Chickens Ordered: 1
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:13 PM
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 2
+Card Number: 6869
+Chicken Unit Price: 13
+Total Cost: 31.32
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 3
+Card Number: 5473
+Chicken Unit Price: 13
+Total Cost: 45.36
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 3
+Card Number: 6589
+Chicken Unit Price: 13
+Total Cost: 45.36
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 6715
+Chicken Unit Price: 13
+Total Cost: 17.28
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 1
+Card Number: 5277
+Chicken Unit Price: 13
+Total Cost: 17.28
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6268
+Amount of Chickens Ordered: 4
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:14 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6071
+Amount of Chickens Ordered: 3
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:14 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5045
+Amount of Chickens Ordered: 1
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:14 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5835
+Amount of Chickens Ordered: 4
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:15 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6389
+Amount of Chickens Ordered: 1
+Current Unit Price: 13
+Order Received Time: 6/4/2020 11:41:15 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $15 each at time 6/4/2020 11:41:16 PM
+
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 4
+Card Number: 6268
+Chicken Unit Price: 13
+Total Cost: 59.4
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 3
+Card Number: 6071
+Chicken Unit Price: 13
+Total Cost: 45.36
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 1
+Card Number: 5045
+Chicken Unit Price: 13
+Total Cost: 17.28
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 4
+Card Number: 5835
+Chicken Unit Price: 13
+Total Cost: 59.4
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 6389
+Chicken Unit Price: 13
+Total Cost: 17.28
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 5037
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:16 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6928
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:16 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5828
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:16 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5293
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:18 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6325
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:18 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 5959
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:18 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5732
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:18 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5245
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:18 PM
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 4
+Card Number: 5037
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 1
+Card Number: 6928
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 3
+Card Number: 5828
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 4
+Card Number: 5293
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 6325
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 3
+Card Number: 5732
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 4
+Card Number: 5959
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 3
+Card Number: 5245
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 5160
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:20 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5160
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:20 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6030
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:20 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6862
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:20 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 6843
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:20 PM
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 4
+Card Number: 5160
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 2
+Card Number: 5160
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 1
+Card Number: 6862
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 3
+Card Number: 6030
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 2
+Card Number: 6843
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 5228
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:22 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5448
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:22 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5448
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:22 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6091
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:23 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5455
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:23 PM
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 5228
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 2
+Card Number: 5448
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 4
+Card Number: 5448
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 1
+Card Number: 5455
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 2
+Card Number: 6091
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6597
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:24 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5424
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:24 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5387
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:24 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 5635
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:25 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5221
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:25 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $17 each at time 6/4/2020 11:41:26 PM
+
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 4
+Card Number: 6597
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 1
+Card Number: 5424
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 1
+Card Number: 5387
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 3
+Card Number: 5221
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 3
+Card Number: 5635
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6177
+Amount of Chickens Ordered: 1
+Current Unit Price: 17
+Order Received Time: 6/4/2020 11:41:26 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6105
+Amount of Chickens Ordered: 4
+Current Unit Price: 17
+Order Received Time: 6/4/2020 11:41:26 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6513
+Amount of Chickens Ordered: 3
+Current Unit Price: 17
+Order Received Time: 6/4/2020 11:41:26 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6254
+Amount of Chickens Ordered: 1
+Current Unit Price: 17
+Order Received Time: 6/4/2020 11:41:28 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5901
+Amount of Chickens Ordered: 2
+Current Unit Price: 17
+Order Received Time: 6/4/2020 11:41:28 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 5148
+Amount of Chickens Ordered: 1
+Current Unit Price: 17
+Order Received Time: 6/4/2020 11:41:28 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5809
+Amount of Chickens Ordered: 1
+Current Unit Price: 17
+Order Received Time: 6/4/2020 11:41:28 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5480
+Amount of Chickens Ordered: 4
+Current Unit Price: 17
+Order Received Time: 6/4/2020 11:41:28 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $15 each at time 6/4/2020 11:41:28 PM
+
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 6177
+Chicken Unit Price: 17
+Total Cost: 21.6
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 4
+Card Number: 6105
+Chicken Unit Price: 17
+Total Cost: 76.68
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 3
+Card Number: 6513
+Chicken Unit Price: 17
+Total Cost: 58.32
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 1
+Card Number: 6254
+Chicken Unit Price: 17
+Total Cost: 21.6
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 1
+Card Number: 5809
+Chicken Unit Price: 17
+Total Cost: 21.6
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 5148
+Chicken Unit Price: 17
+Total Cost: 21.6
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 2
+Card Number: 5901
+Chicken Unit Price: 17
+Total Cost: 39.96
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 4
+Card Number: 5480
+Chicken Unit Price: 17
+Total Cost: 76.68
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6996
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:30 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6899
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:30 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5494
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:30 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 5620
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:30 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 6900
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:30 PM
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 3
+Card Number: 6996
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 2
+Card Number: 6899
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 4
+Card Number: 5620
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 1
+Card Number: 5494
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 2
+Card Number: 6900
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 5244
+Amount of Chickens Ordered: 3
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:32 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 5619
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:32 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5684
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:32 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 5330
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:33 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5018
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:33 PM
+=========================================
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 3
+Card Number: 5244
+Chicken Unit Price: 15
+Total Cost: 51.84
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 1
+Card Number: 5619
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 2
+Card Number: 5684
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 4
+Card Number: 5018
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 4
+Card Number: 5330
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 2
+Card Number: 6311
+Amount of Chickens Ordered: 4
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:34 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 1
+Card Number: 6091
+Amount of Chickens Ordered: 2
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:34 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 4
+Card Number: 5777
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:34 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 3
+Card Number: 6823
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:35 PM
+=========================================
+
+---- New Order Created ----
+Sender ID: Store 5
+Card Number: 5806
+Amount of Chickens Ordered: 1
+Current Unit Price: 15
+Order Received Time: 6/4/2020 11:41:35 PM
+=========================================
+
+Thread farmer: chickens are on sale: as low as $12 each at time 6/4/2020 11:41:36 PM
+
+
+---- New Order Confirmed ----
+From: Store 2
+Amount: 4
+Card Number: 6311
+Chicken Unit Price: 15
+Total Cost: 68.04
+=========================================
+
+---- New Order Confirmed ----
+From: Store 4
+Amount: 1
+Card Number: 5777
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 3
+Amount: 1
+Card Number: 6823
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 5
+Amount: 1
+Card Number: 5806
+Chicken Unit Price: 15
+Total Cost: 19.44
+=========================================
+
+---- New Order Confirmed ----
+From: Store 1
+Amount: 2
+Card Number: 6091
+Chicken Unit Price: 15
+Total Cost: 35.64
+=========================================
+
+Main thread completed

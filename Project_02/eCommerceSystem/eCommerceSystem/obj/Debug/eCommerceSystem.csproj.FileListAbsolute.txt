@@ -1,0 +1,6 @@
+D:\STUDY\CSE_445\Projects\Project_02\Program\eCommerceSystem\eCommerceSystem\obj\Debug\eCommerceSystem.csprojAssemblyReference.cache
+D:\STUDY\CSE_445\Projects\Project_02\Program\eCommerceSystem\eCommerceSystem\bin\Debug\eCommerceSystem.exe.config
+D:\STUDY\CSE_445\Projects\Project_02\Program\eCommerceSystem\eCommerceSystem\bin\Debug\eCommerceSystem.exe
+D:\STUDY\CSE_445\Projects\Project_02\Program\eCommerceSystem\eCommerceSystem\bin\Debug\eCommerceSystem.pdb
+D:\STUDY\CSE_445\Projects\Project_02\Program\eCommerceSystem\eCommerceSystem\obj\Debug\eCommerceSystem.exe
+D:\STUDY\CSE_445\Projects\Project_02\Program\eCommerceSystem\eCommerceSystem\obj\Debug\eCommerceSystem.pdb
