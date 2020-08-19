@@ -1,0 +1,36 @@
+public string SearchPerson(string xmlURL, string personName)
+        {
+            string firstName = personName.Split(' ')[0];
+            string lastName = personName.Split(' ')[1];
+            string personInfo = "";
+            try
+            {
+                XmlDocument xd = new XmlDocument();
+                xd.Load(xmlURL);
+                var nodeList = xd.DocumentElement.SelectNodes("/Persons/Person");
+                foreach (XmlNode node in nodeList)
+                {
+                    if (node["Name"]["First"].InnerText == firstName && node["Name"]["Last"].InnerText == lastName)
+                    {
+                        personInfo += firstName + " " + lastName + "," +
+                                        node["Credential"]["Id"].InnerText + "," + node["Credential"]["Password"].InnerText + "," +
+                                        node["Credential"]["Password"].Attributes[0].InnerText + "," + node["Phone"]["Work"].InnerText + "," +
+                                        node["Phone"]["Cell"].InnerText + ",";
+                        if (node["Phone"]["Cell"].HasAttribute("Provider"))
+                        {
+                            personInfo += node["Phone"]["Cell"].Attributes[0].InnerText + ",";
+                        }
+                        else
+                        {
+                            personInfo += ",";
+                        }
+
+                        personInfo += node["Category"].InnerText;
+                        break;
+                    }
+                }
+            }
+            catch (Exception) { }
+
+            return personInfo;
+        }
