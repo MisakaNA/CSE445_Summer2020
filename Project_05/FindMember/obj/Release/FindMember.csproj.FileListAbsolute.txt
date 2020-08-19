@@ -1,0 +1,5 @@
+D:\ACADEMIC\CSE_445\Projects\Project_05\Program\Project5\FindMember\bin\Release\FindMember.dll
+D:\ACADEMIC\CSE_445\Projects\Project_05\Program\Project5\FindMember\bin\Release\FindMember.pdb
+D:\ACADEMIC\CSE_445\Projects\Project_05\Program\Project5\FindMember\obj\Release\FindMember.csprojAssemblyReference.cache
+D:\ACADEMIC\CSE_445\Projects\Project_05\Program\Project5\FindMember\obj\Release\FindMember.dll
+D:\ACADEMIC\CSE_445\Projects\Project_05\Program\Project5\FindMember\obj\Release\FindMember.pdb
