@@ -1,4 +1,4 @@
-This project contains A5 & A6.
+This project contains A5 & A6. 
 
 Contains 6 self developed websites, but some of the services are from APIs.
 
